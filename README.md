@@ -1,6 +1,3 @@
-- 🔭 Trabalhando com Front end
-- 🌱 Estudando JavaScript, React e Java 
-
 <div align="center">
   <a href="https://github.com/GustavoMocelin">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoMocelin&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
