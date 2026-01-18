@@ -1,34 +1,17 @@
-<img align="left" height="60" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Jid3pyZmgyc3F1Z2hrZXFwZ2l4cmdhbGNqNng2MXczcHkzamNweSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1RCuTvmJILT2/giphy.gif"  />
-
-###
+<img align="left" height="60" border-right="20px" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Jid3pyZmgyc3F1Z2hrZXFwZ2l4cmdhbGNqNng2MXczcHkzamNweSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1RCuTvmJILT2/giphy.gif"  />
 
 <h2 align="left">Full Stack Developer</h2>
 
-###
-
 <br clear="both">
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=GustavoMocelin.GustavoMocelin&left_color=black&right_color=darkgrey"  />
-</div>
-
-###
-
-<br clear="both">
-
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
-
-###
 
 <br clear="both">
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GustavoMocelin&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false&custom_title=Knowledge" height="150" alt="languages graph"  />
 </div>
-
-###
 
 <br clear="both">
 
