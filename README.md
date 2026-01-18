@@ -3,7 +3,6 @@
 <h2 align="left">    Full Stack Developer</h2>
 
 <br clear="both">
-<br clear="both">
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GustavoMocelin&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false&custom_title=Knowledge" height="150" alt="languages graph"  />
