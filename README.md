@@ -1,6 +1,6 @@
-<img align="left" height="60" border-right="20px" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Jid3pyZmgyc3F1Z2hrZXFwZ2l4cmdhbGNqNng2MXczcHkzamNweSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1RCuTvmJILT2/giphy.gif"  />
+<img align="left" height="60" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Jid3pyZmgyc3F1Z2hrZXFwZ2l4cmdhbGNqNng2MXczcHkzamNweSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1RCuTvmJILT2/giphy.gif"  />
 
-<h2 align="left">Full Stack Developer</h2>
+<h2 align="left">    Full Stack Developer</h2>
 
 <br clear="both">
 <div align="left">
