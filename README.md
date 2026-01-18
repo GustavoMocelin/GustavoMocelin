@@ -2,6 +2,14 @@
 
 <h2 align="left">&nbsp;&nbsp;&nbsp;Full Stack Developer</h2>
 
+
+
+<div align="left">
+  <p>Full Stack Developer since 2021, with a Bachelor's Degree in Systems Analysis and Development.</p>
+  <br clear="both">
+  <p>Experience in web application and responsive website development, using technologies such as HTML5, CSS3, JavaScript, Bootstrap, jQuery, PHP, and WordPress.</p>
+</div>
+
 <br clear="both">
 
 <div align="left">
