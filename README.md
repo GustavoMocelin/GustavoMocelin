@@ -5,7 +5,7 @@
 <br clear="both">
 
 <div align="left">
-  <p>Full Stack Developer since 2021, experience in web application and responsive website development, using technologies such as HTML5, CSS3, JavaScript, Bootstrap, jQuery, PHP, and WordPress.</p>
+  <p>Full Stack Developer since 2021, experience in web application and responsive website development, using technologies such as HTML5, CSS3, JavaScript, Bootstrap, jQuery, PHP and WordPress.</p>
 </div>
 
 <br clear="both">
